@@ -112,3 +112,19 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+
+
+
+
+![plot1_PNG](https://user-images.githubusercontent.com/67279445/85600647-3fd85f00-b613-11ea-8b7b-932928a2b2b5.png)
+
+
+![plot2_PNG](https://user-images.githubusercontent.com/67279445/85600656-436be600-b613-11ea-9655-ff497732151c.png)
+
+
+![plot3_PNG](https://user-images.githubusercontent.com/67279445/85600667-45ce4000-b613-11ea-8306-e824bad904c2.png)
+
+
+![plot4_PNG](https://user-images.githubusercontent.com/67279445/85600679-48309a00-b613-11ea-82a0-d2d39e38be35.png)
+
+
