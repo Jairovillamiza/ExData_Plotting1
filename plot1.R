@@ -12,3 +12,4 @@ hist(globalActivePower, col="red", main="Global Active Power", xlab="Global Acti
 dev.off()
 
 
+![plot1_PNG](https://user-images.githubusercontent.com/67279445/85599947-a0b36780-b612-11ea-9e1a-f66f59764530.png)
